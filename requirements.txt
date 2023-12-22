@@ -1,0 +1,6 @@
+pypdf
+langchain
+psycopg2
+pgvector
+SQLAlchemy
+pinecone-client
